@@ -18,7 +18,7 @@
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
-<samp>**Tools I know**</samp><br>
+<samp>**Tools I know and used**</samp><br>
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
@@ -27,6 +27,7 @@
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://docs.gradle.org/current/userguide/userguide.html)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
