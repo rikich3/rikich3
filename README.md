@@ -1,15 +1,16 @@
 <div align="center">
   <samp>
     Hi<br>Name is Ricardo. Rick, Ricky or Riki its fine<br>
-    <img src="">
+    
 <b>~ Software Ingenieering Student~</b>
 </samp></div>
 
 ---
 
 <samp>**About me**</samp>
-<br> I'd like to make useful tools and services, that's why i choose this career </br>
-<br> I also just like technology </br>
+<br> I'd like to make useful tools and services, that's why i choose this career
+<br> I also like technology 
+<br> I value simplicity <br>
 
 <samp>**Frameworks that i like to use**</samp><br>
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
