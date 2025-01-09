@@ -11,12 +11,12 @@
 <br> I'd like to make useful tools and services, that's why i choose this career </br>
 <br> I also just like technology </br>
 
-<samp>**Tools i learned**</samp><br>
+<samp>**Frameworks that i like to use**</samp><br>
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/cpp)
 
 
-<samp>**Used Tools**</samp><br>
+<samp>**Tools i know**</samp><br>
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
