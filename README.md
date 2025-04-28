@@ -1,6 +1,6 @@
 <div align="center">
   <samp>
-    Hi<br>Name is Ricardo. Rick, Ricky or Riki its fine<br>
+    Hi<br>Name is Ricardo. I'm also cool with being called Rick, Ricky or Riki<br>
     
 <b>~ Software Ingenieering Student~</b>
 </samp></div>
@@ -9,7 +9,7 @@
 
 <samp>**About me**</samp>
 <br> I'd like to make useful tools and services, that's why i choose this career.
-<br> I also like technology.
+<br> I enjoy learning about new technology.
 <br> I appreciate and admire the following qualities in a person: empathy, authenticity and wisdom.
 <br> In a project, i value conciseness, simplicity and efficiency. <br>
 
