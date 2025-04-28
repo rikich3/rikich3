@@ -17,6 +17,7 @@
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Google Cloud Plataform](https://skillicons.dev/icons?i=gcp)](https://console.cloud.google.com)
 
 <samp>**Tools I know and used**</samp><br>
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
